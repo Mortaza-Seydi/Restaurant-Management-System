@@ -11,7 +11,8 @@
 *          You Should Run And Compile Program With This Versions or upper of Them.
 *          If You Want To Run It On Other OS Please See : https://www.gtk.org/download/
 *
-*  Note2 : Before Runing Program For First Time Dir "/files" And "/files/files" Must be Created.
+*  Note2 : Before Running Program For First Time Dir "/files" And "/files/files" Must be Created.
+*          if not, You Will Get Core Dumped Error.
 *
 *  Compile (Linux)  :  gcc -export-dynamic -Wall
 *                     `pkg-config --cflags --libs gtk+-3.0`
